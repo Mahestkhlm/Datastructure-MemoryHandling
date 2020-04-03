@@ -184,7 +184,7 @@ namespace DataStructureMemory
         static void ExamineStack()
         //method to examine the stack , user can push or pop items and displays the number of elements in the current stack
         {
-            Console.clear();
+            
             bool exit = false;
 
             Stack<string> myStack = new Stack<string>();
