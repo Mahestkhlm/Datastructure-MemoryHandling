@@ -282,7 +282,7 @@ namespace DataStructureMemory
 
             if (IsBalanced(Inputexpression))
             {
-                Console.Write("THIS IS THE CORRECT FORM\n\n");
+                Console.Write("\nTHIS IS THE CORRECT FORM OF EXPRESSION!\n\n");
                 Console.WriteLine(Inputexpression);
                 Console.WriteLine("*********************");
 
