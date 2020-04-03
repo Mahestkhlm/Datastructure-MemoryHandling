@@ -292,7 +292,7 @@ namespace DataStructureMemory
                 Console.Write("ERROR!!\n\nYOU HAVE ENETERED AN INCORRECT FORM OF EXPRESSION\n");
                 Console.WriteLine(Inputexpression);
                 Console.WriteLine("\n");
-                Console.Clear();
+                
             }
             // I have used stack, iterating through each character of the input string, to Push any opening brackets to the stack
             //it pops the closing beacets and chks if it matches the entered opening bracs in the stack.at the endof iteration,
